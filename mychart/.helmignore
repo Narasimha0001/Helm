@@ -21,3 +21,10 @@
 .idea/
 *.tmproj
 .vscode/
+
+
+.hpa.yaml
+._helpers.tpl
+.charts/
+.NOTES.txt
+.Chart.yaml
